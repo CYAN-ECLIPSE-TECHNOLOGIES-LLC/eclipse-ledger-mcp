@@ -1,0 +1,8 @@
+{
+ "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+ "name": "io.github.CYAN-ECLIPSE-TECHNOLOGIES-LLC/ledger",
+ "title": "Eclipse Ledger MCP",
+ "description": "Eclipse Ledger \u2014 betting records, price comparison, and responsible-gambling controls. Not a",
+ "version": "0.1.0",
+ "websiteUrl": "https://eclipsebazaar.com"
+}
